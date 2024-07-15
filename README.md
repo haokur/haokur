@@ -4,6 +4,7 @@ I am **Bing Xiao**.
 
 - 📆 9+ years' development working experience.
 - 📌 Good at automation and improving work efficiency.
+- <a href="https://haokur.github.io/business" target="_blank">more</a>
 
 **🤔 Languages:**
 
