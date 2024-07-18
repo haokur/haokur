@@ -17,6 +17,6 @@ I am **Bing Xiao**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<img src="https://api.haokur.com/github/viewer-count?username=haokur&spm_id_from=home"/>
+<img src="https://api.haokur.com/github/viewer-count?username=haokur&spm_id_from=home&t=1"/>
 
 <!-- [![haokur's github stats](https://github-readme-stats.vercel.app/api?username=haokur&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/haokur) -->
